@@ -6,3 +6,6 @@ www.hamk.fi
 there is again one line code is added 
 
 this is link of www.facebook.com
+
+this is link of www.skdkjds.com
+
